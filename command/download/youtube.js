@@ -15,9 +15,11 @@ export default {
 
     try {
       const isAudio = m.command === "ytmp3";
-      const result = await scraper.youtube.play(func.isUrl(url)[0]);
+      const response = await func.fetchJson(API("arifzyn", "/download/youtube", { url: func.isUrl(url)[0] }, "apikey"))
+      if (response.status !== 200) return m.reply(func.format(response))
+      const result = response.result 
       const responseUrl = isAudio
-        ? result.audio["128"].url
+        ? result.audio["128"].url 
         : result.video["720p"].url;
       const title = result.title.replace(/[\\/:*?"<>|]/g, ""); // remove illegal characters for file names
       const extension = isAudio ? "mp3" : "mp4";
@@ -29,7 +31,7 @@ export default {
       });
     } catch (error) {
       console.error("Error downloading YouTube video:", error);
-      m.reply("Terjadi kesalahan saat memproses permintaan download.");
+      m.reply(func.format(error?.response?.data));
     }
   },
 };

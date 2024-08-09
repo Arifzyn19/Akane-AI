@@ -2,7 +2,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 export default {
   command: ["start", "leave", "next", "skip", "sendcontact"],
-  description: "Anonymous Chat (Cari Teman)",
+  description: "Anonymous Chat (Cari Teman/Pacar)",
   name: ["start", "leave", "next", "skip", "sendcontact"],
   tags: "anonymous",
 

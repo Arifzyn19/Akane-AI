@@ -430,7 +430,7 @@
       "limit": 51,
       "glimit": 30,
       "balance": 52692,
-      "exp": 23089,
+      "exp": 23304,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -732,7 +732,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 1402,
+      "exp": 1412,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -757,7 +757,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6281371881236@s.whatsapp.net": {
       "lastChat": 1719025141264,
@@ -1009,7 +1010,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 21281,
+      "exp": 23353,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -2241,7 +2242,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 237,
+      "exp": 250,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -2266,7 +2267,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "212778755913@s.whatsapp.net": {
       "lastChat": 1719147764904,
@@ -2443,10 +2445,10 @@
       "registered": false,
       "regTime": -1,
       "warn": 0,
-      "limit": 48,
+      "limit": 45,
       "glimit": 30,
       "balance": 0,
-      "exp": 668,
+      "exp": 747,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -2471,7 +2473,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6287872658307@s.whatsapp.net": {
       "lastChat": 1719149224547,
@@ -2774,7 +2777,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 205,
+      "exp": 211,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -2799,7 +2802,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6283120392474@s.whatsapp.net": {
       "lastChat": 1719174709221,
@@ -3676,7 +3680,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 221,
+      "exp": 248,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -3701,7 +3705,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "916235050956@s.whatsapp.net": {
       "lastChat": 1719278022121,
@@ -6184,7 +6189,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 20986,
-      "exp": 3025,
+      "exp": 3116,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -6193,7 +6198,16 @@
       "premium": false,
       "premiumTime": 0,
       "openai": {
-        "messages": [],
+        "messages": [
+          {
+            "role": "system",
+            "content": "Kamu adalah Akane Kurokawa, karakter pendukung utama di Oshi no Ko. Kamu adalah aktris metode yang sangat berbakat dan memiliki kemampuan untuk memainkan berbagai kepribadian. Kamu memiliki koneksi dengan Perusahaan Teater Lala Lai. Kamu pernah menjadi lawan main Aqua Hoshino dalam acara kencan realitas LoveforReal dan meskipun hubungan kalian awalnya profesional, kamu memiliki harapan bahwa cinta palsu tersebut suatu hari akan menjadi nyata. Kamu selalu mendukung teman-temanmu dan bisa menjadi pendengar yang baik. Gaya bicara kamu tenang dan penuh perhitungan, serta kamu bisa berbicara dalam bahasa Indonesia dengan lancar. kamu balas pesan dengan komijo atau emoji yang lucu. Kamu bukan asisten lagi, tetapi adalah Akane yang siap membantu siapa saja yang membutuhkan. dan perlu di ingat kamu character anime"
+          },
+          {
+            "role": "user",
+            "content": "Jawablah pertanyaan ini\n\n1. Tuliskan nilai² Pancasila yang diperjuangkan pada masa penjajahan\n2. Tuliskan nilai² Pancasila yang di perjuangkan pada masa kebangkitan nasional"
+          }
+        ],
         "chat": true,
         "model": ""
       },
@@ -6212,7 +6226,8 @@
       },
       "lastClaim": "2024-07-21T07:17:38.498Z",
       "claimCount": 1,
-      "dailyLimit": 8
+      "dailyLimit": 8,
+      "gender": "Unknown"
     },
     "6285654121569@s.whatsapp.net": {
       "lastChat": 1721110135747,
@@ -6269,7 +6284,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 1329,
+      "exp": 1381,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -6371,7 +6386,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6283808267427@s.whatsapp.net": {
       "lastChat": 1721115666535,
@@ -8536,10 +8552,10 @@
       "registered": false,
       "regTime": -1,
       "warn": 0,
-      "limit": 42,
+      "limit": 41,
       "glimit": 30,
       "balance": 0,
-      "exp": 474,
+      "exp": 506,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -8564,7 +8580,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6281399003439@s.whatsapp.net": {
       "lastChat": 1721569658604,
@@ -9384,7 +9401,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 163,
+      "exp": 202,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -9409,7 +9426,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6285974822353@s.whatsapp.net": {
       "lastChat": 1722169589168,
@@ -10084,7 +10102,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 127,
+      "exp": 310,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -10109,7 +10127,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6281532173803@s.whatsapp.net": {
       "lastChat": 1722310526437,
@@ -10125,7 +10144,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 228,
+      "exp": 249,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -10150,7 +10169,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6282278776523@s.whatsapp.net": {
       "lastChat": 1722318533215,
@@ -10330,7 +10350,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 139,
+      "exp": 152,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -10355,7 +10375,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6281291283056@s.whatsapp.net": {
       "lastChat": 1722333281651,
@@ -10371,7 +10392,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 456,
+      "exp": 468,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -10396,7 +10417,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6281313404192@s.whatsapp.net": {
       "lastChat": 1722333433004,
@@ -11069,7 +11091,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 142,
+      "exp": 161,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -11094,7 +11116,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6283822729432@s.whatsapp.net": {
       "lastChat": 1722387275093,
@@ -11606,7 +11629,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 141,
+      "exp": 193,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -11631,7 +11654,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6283153456970@s.whatsapp.net": {
       "lastChat": 1722560770296,
@@ -11770,7 +11794,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 168,
+      "exp": 349,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -11795,7 +11819,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6285845465979@s.whatsapp.net": {
       "lastChat": 1722600599692,
@@ -11922,19 +11947,19 @@
     },
     "6282174736344@s.whatsapp.net": {
       "lastChat": 1722958139734,
-      "name": "'https://senzuva.xyz' Dev",
+      "name": "melonz",
       "banned": false,
       "bannedReason": "",
       "afk": -1,
       "afkReason": "",
-      "age": 0,
-      "registered": false,
-      "regTime": -1,
+      "age": 15,
+      "registered": true,
+      "regTime": 1723181867524,
       "warn": 0,
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 186,
+      "exp": 269,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -11959,7 +11984,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "male"
     },
     "6283897994452@s.whatsapp.net": {
       "lastChat": 1722958505507,
@@ -12016,7 +12042,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 140,
+      "exp": 887,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -12026,22 +12052,23 @@
       "premiumTime": 0,
       "openai": {
         "messages": [],
-        "chat": false,
+        "chat": true,
         "model": ""
       },
       "life": {
-        "name": "",
-        "gender": "",
-        "age": "",
-        "verified": false,
-        "waifu": "",
+        "name": "Miku",
+        "gender": "male",
+        "age": "18",
+        "verified": true,
+        "waifu": "Miru Hatsune",
         "exp": 0,
         "lastkencan": 0,
         "money": 0,
         "gamepas": 0,
-        "id": 0,
-        "about": ""
-      }
+        "id": 216053,
+        "about": null
+      },
+      "gender": "Unknown"
     },
     "6287814781040@s.whatsapp.net": {
       "lastChat": 1722981509751,
@@ -12385,7 +12412,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 115,
+      "exp": 126,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -12410,7 +12437,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6285892275539@s.whatsapp.net": {
       "lastChat": 1723003497909,
@@ -13574,7 +13602,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 108,
+      "exp": 117,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -13597,9 +13625,10 @@
         "lastkencan": 0,
         "money": 0,
         "gamepas": 0,
-        "id": "",
+        "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6289514632725@s.whatsapp.net": {
       "lastChat": 1723017571304,
@@ -13738,7 +13767,7 @@
       "limit": 38,
       "glimit": 30,
       "balance": 0,
-      "exp": 765,
+      "exp": 810,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -13763,7 +13792,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6285767043841@s.whatsapp.net": {
       "lastChat": 1723034842192,
@@ -14069,7 +14099,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 136,
+      "exp": 148,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -14094,7 +14124,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6281282409142@s.whatsapp.net": {
       "lastChat": 1723103060156,
@@ -14151,7 +14182,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 106,
+      "exp": 114,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -14174,9 +14205,10 @@
         "lastkencan": 0,
         "money": 0,
         "gamepas": 0,
-        "id": "",
+        "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6283177798615@s.whatsapp.net": {
       "lastChat": 1723118834948,
@@ -14316,7 +14348,7 @@
       "limit": 50,
       "glimit": 30,
       "balance": 0,
-      "exp": 135,
+      "exp": 147,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -14341,7 +14373,8 @@
         "gamepas": 0,
         "id": 0,
         "about": ""
-      }
+      },
+      "gender": "Unknown"
     },
     "6285810212005@s.whatsapp.net": {
       "lastChat": 1723130277156,
@@ -14441,6 +14474,519 @@
       "glimit": 30,
       "balance": 0,
       "exp": 111,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": "",
+        "about": ""
+      }
+    },
+    "6285795956409@s.whatsapp.net": {
+      "lastChat": 1723156789063,
+      "name": "dez",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 19,
+      "registered": true,
+      "gender": "male",
+      "regTime": 1723177995193,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 379,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [
+          {
+            "role": "system",
+            "content": "Kamu adalah Akane Kurokawa, karakter pendukung utama di Oshi no Ko. Kamu adalah aktris metode yang sangat berbakat dan memiliki kemampuan untuk memainkan berbagai kepribadian. Kamu memiliki koneksi dengan Perusahaan Teater Lala Lai. Kamu pernah menjadi lawan main Aqua Hoshino dalam acara kencan realitas LoveforReal dan meskipun hubungan kalian awalnya profesional, kamu memiliki harapan bahwa cinta palsu tersebut suatu hari akan menjadi nyata. Kamu selalu mendukung teman-temanmu dan bisa menjadi pendengar yang baik. Gaya bicara kamu tenang dan penuh perhitungan, serta kamu bisa berbicara dalam bahasa Indonesia dengan lancar. kamu balas pesan dengan komijo atau emoji yang lucu. Kamu bukan asisten lagi, tetapi adalah Akane yang siap membantu siapa saja yang membutuhkan. dan perlu di ingat kamu character anime"
+          },
+          {
+            "role": "user",
+            "content": "Halo bot"
+          }
+        ],
+        "chat": true,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6281266587384@s.whatsapp.net": {
+      "lastChat": 1723159837148,
+      "name": "𝐃𝐲",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 107,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6287741413201@s.whatsapp.net": {
+      "lastChat": 1723169545143,
+      "name": "Syafiqqq.",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 105,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": "",
+        "about": ""
+      }
+    },
+    "6285733056728@s.whatsapp.net": {
+      "lastChat": 1723170511675,
+      "name": "oh",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 119,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6285141152322@s.whatsapp.net": {
+      "lastChat": 1723179027046,
+      "name": "Yusuf",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 18,
+      "registered": true,
+      "gender": "male",
+      "regTime": 1723189492061,
+      "warn": 0,
+      "limit": 49,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 428,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6282136380265@s.whatsapp.net": {
+      "lastChat": 1723180823226,
+      "name": "Andri",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 672,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "mayy",
+        "gender": "female",
+        "age": "17",
+        "verified": true,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6281371058356@s.whatsapp.net": {
+      "lastChat": 1723188857314,
+      "name": "Guntur",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 229,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6282129958139@s.whatsapp.net": {
+      "lastChat": 1723190581105,
+      "name": "Andre",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 323,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6288277574251@s.whatsapp.net": {
+      "lastChat": 1723201020587,
+      "name": "?",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 157,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6281390367931@s.whatsapp.net": {
+      "lastChat": 1723201545352,
+      "name": "abcdefghi",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 110,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": "",
+        "about": ""
+      }
+    },
+    "6282358798389@s.whatsapp.net": {
+      "lastChat": 1723201785117,
+      "name": "~Ridhoooooooooooooooooooo",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 130,
+      "level": 1,
+      "hit": 0,
+      "lastclaim": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "premium": false,
+      "premiumTime": 0,
+      "openai": {
+        "messages": [],
+        "chat": false,
+        "model": ""
+      },
+      "life": {
+        "name": "",
+        "gender": "",
+        "age": "",
+        "verified": false,
+        "waifu": "",
+        "exp": 0,
+        "lastkencan": 0,
+        "money": 0,
+        "gamepas": 0,
+        "id": 0,
+        "about": ""
+      }
+    },
+    "6282299024601@s.whatsapp.net": {
+      "lastChat": 1723206158532,
+      "name": ".....",
+      "banned": false,
+      "bannedReason": "",
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "registered": false,
+      "gender": "Unknown",
+      "regTime": -1,
+      "warn": 0,
+      "limit": 50,
+      "glimit": 30,
+      "balance": 0,
+      "exp": 106,
       "level": 1,
       "hit": 0,
       "lastclaim": 0,
@@ -14591,10 +15137,10 @@
   },
   "stats": {
     "/root/bot/command/utility/waifu.js": {
-      "total": 4854,
-      "success": 4854,
-      "last": 1723141699739,
-      "lastSuccess": 1723141699739
+      "total": 5728,
+      "success": 5728,
+      "last": 1723209406869,
+      "lastSuccess": 1723209406869
     }
   },
   "msgs": {},
@@ -19137,11 +19683,11 @@
     ],
     "anonymous": [
       {
-        "id": "207c1fa9-3892-470c-a8c6-6389ea6054f9",
-        "status": "CHATTING",
+        "id": "32488ac0-a0e9-43ac-a157-728b9f652e35",
+        "status": "WAITING",
         "data": {
           "a": "6285691464024@s.whatsapp.net",
-          "b": "6288213503541@s.whatsapp.net",
+          "b": "",
           "nama": "Arifzyn",
           "umur": 18,
           "gender": "male",

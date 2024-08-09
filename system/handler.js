@@ -7,7 +7,7 @@ import { fileURLToPath } from "url";
 import { createRequire } from "module";
 import baileys, { delay } from "@whiskeysockets/baileys";
 import { plugins } from "./lib/plugins.js";
-import { scraper } from "../storage/scraper/index.js";
+import { scraper } from "./lib/scraper.js";
 // Utility function to check if a value is a number
 const isNumber = (x) => typeof x === "number" && !isNaN(x);
 

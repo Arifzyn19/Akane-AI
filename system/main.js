@@ -22,6 +22,7 @@ import {
   pluginFolder,
   pluginFilter,
 } from "./lib/plugins.js";
+import { loadScraper } from "./lib/scraper.js";
 
 const logger = pino({
   level: "fatal",
@@ -98,6 +99,7 @@ async function start() {
   await Client({ conn, store });
   global.conn = conn;
 
+  await loadScraper()
   loadPluginFiles(pluginFolder, pluginFilter, {
     logger: conn.logger,
     recursiveRead: true,
